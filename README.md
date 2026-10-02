@@ -9,7 +9,7 @@ Data Science student at Ca' Foscari University of Venice.
 
 <ul>
   <li>
-    <b><a href="LINK_STRYNX">Strynx</a></b> — fitness & nutrition app, live on iOS and Android.
+    <b><a href="https://strynx-landing.vercel.app/">Strynx</a></b> — fitness & nutrition app, live on iOS and Android.
     Calorie plans, workout tracking and shared training splits.
   </li>
   <li>
