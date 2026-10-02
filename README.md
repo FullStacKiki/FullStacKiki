@@ -2,7 +2,7 @@
 
 <p>
 Indie developer from Italy, building cross-platform apps with React, TypeScript and Supabase.<br/>
-Data Science student at Ca' Foscari University of Venice · shipping products through <b>OXBURGH</b>.
+Data Science student at Ca' Foscari University of Venice.
 </p>
 
 <h2>🛠️ What I'm building</h2>
