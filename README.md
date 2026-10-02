@@ -26,7 +26,7 @@ Data Science student at Ca' Foscari University of Venice · shipping products th
   <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,bash,figma&perline=7" alt="Other tools" />
 </p>
 <p>
-Mobile apps with <b>Capacitor</b> · daily workflow with <b>Claude Code</b> and <b>Lovable</b>.
+Mobile apps with <b>Capacitor</b>.
 </p>
 
 <h2>📫 Contact</h2>
