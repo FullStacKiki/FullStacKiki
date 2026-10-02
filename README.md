@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Alex</h1>
 
 <p>
-Indie developer from Italy, building cross-platform apps with React, TypeScript and Supabase.<br/>
+Indie developer from Italy, building cross-platform apps with React and Supabase.<br/>
 Data Science student at Ca' Foscari University of Venice.
 </p>
 
