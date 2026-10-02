@@ -23,7 +23,7 @@ Data Science student at Ca' Foscari University of Venice.
   <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,supabase,postgres&perline=7" alt="Main stack" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,bash,figma&perline=7" alt="Other tools" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,bash,figma&perline=7" alt="Other tools" />
 </p>
 <p>
 Mobile apps with <b>Capacitor</b>.
