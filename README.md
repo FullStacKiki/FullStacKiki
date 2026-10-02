@@ -20,7 +20,7 @@ Data Science student at Ca' Foscari University of Venice.
 <h2>🚀 Stack</h2>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,tailwind,supabase,postgres&perline=7" alt="Main stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,supabase,postgres&perline=7" alt="Main stack" />
 </p>
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,bash,figma&perline=7" alt="Other tools" />
