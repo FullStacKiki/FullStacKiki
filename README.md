@@ -13,10 +13,6 @@ Data Science student at Ca' Foscari University of Venice · shipping products th
     Calorie plans, workout tracking and shared training splits.
   </li>
   <li>
-    <b><a href="LINK_TYPING_TEST">Typing test for programmers</a></b> — a Monkeytype-style typing test
-    built around real code snippets.
-  </li>
-  <li>
     <b><a href="https://github.com/FullStacKiki/Dotfiles">Dotfiles</a></b> — my Arch Linux + Hyprland setup.
   </li>
 </ul>
