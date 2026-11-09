@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" alt="banner" width="100%"
+</p>
+
 <h1>Hi 👋, I'm Alex</h1>
 
 <p>
