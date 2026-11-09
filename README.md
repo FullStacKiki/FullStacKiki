@@ -5,24 +5,16 @@
 <h1>Hi 👋, I'm Alex</h1>
 
 <p>
-Indie developer from Italy, building cross-platform apps with React and Supabase.<br/>
-Data Science student at Ca' Foscari University of Venice.
+I'm a 17 years old first year student at Ca'Foscari, focused on advanced algorithms and quantative finance. 
+As an aspiring quant researcher I'm building my foundation in probability, statistic and low level programming, in particular using C.
+<ul>
+  <li><b>Backtester in C</b>: event-driven backtesting engine on historical stock data (CSV).</li>
+  <li>Currently studying: stochastic processes, time series, market microstructure.</li>
+</ul>
 </p>
 
-<h2>🛠️ What I'm building</h2>
 
-<ul>
-  <li>
-    <b><a href="https://strynx-landing.vercel.app/">Strynx</a></b> — fitness & nutrition app, live on iOS and Android.
-    Calorie plans, workout tracking and shared training splits.
-  </li>
-  <li>
-    <b><a href="https://github.com/FullStacKiki/Dotfiles">Dotfiles</a></b> — my Arch Linux + Hyprland setup.
-  </li>
-</ul>
-
-<h2>🚀 Stack</h2>
-
+<h2>Stack</h2>
 <p>
   <img src="https://skillicons.dev/icons?i=js,react,vite,tailwind,supabase,postgres&perline=7" alt="Main stack" />
 </p>
