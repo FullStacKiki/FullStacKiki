@@ -25,8 +25,8 @@ As an aspiring quant researcher I'm building my foundation in probability, stati
 Mobile apps with <b>Capacitor</b>.
 </p>
 
-<h2>📫 Contact</h2>
-
+<h2>Contact</h2>
 <p>
-  <a href="mailto:alessandroravanelli8@gmail.com">alessandroravanelli8@gmail.com</a>
+  <a href="https://alerava.xyz"><img src="https://img.shields.io/badge/Website-alerava.xyz-1f6feb?style=for-the-badge" /></a>
+  <a href="mailto:alessandroravanelli8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f6feb?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
