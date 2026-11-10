@@ -16,6 +16,9 @@ As an aspiring quant researcher I'm building my foundation in probability, stati
   <li>
   <b><a href="https://github.com/FullStacKiki/quorum">Quorum</a></b> — AI agents simulating audience reactions to business ideas (AMD Hackathon, team project).
 </li>
+  <li>
+  <b><a href="https://github.com/FullStacKiki/proofpad">Proofpad</a></b> — macOS LaTeX editor with live PDF preview and real-time collaboration (Tauri).
+</li>
 </ul>
 </p>
 
