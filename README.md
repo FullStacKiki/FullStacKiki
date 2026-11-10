@@ -13,6 +13,9 @@ As an aspiring quant researcher I'm building my foundation in probability, stati
     <li>
     <b><a href="https://github.com/FullStacKiki/unix-tools-in-c">Unix tools in C</a></b> — reimplementations of <code>cat</code>, <code>wc</code>, <code>hexdump</code> and a frequency counter, built while learning systems programming.
   </li>
+  <li>
+  <b><a href="https://github.com/FullStacKiki/quorum">Quorum</a></b> — AI agents simulating audience reactions to business ideas (AMD Hackathon, team project).
+</li>
 </ul>
 </p>
 
